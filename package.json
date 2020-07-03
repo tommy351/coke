@@ -23,7 +23,7 @@
     "cli-color"      : "0.3.2",
     "express"        : "4.9.2",
     "inflection"     : "1.4.2",
-    "js-yaml"        : "3.2.2",
+    "js-yaml"        : "3.14.0",
     "node.class"     : "1.1.4",
     "node.extend"    : "1.1.2",
     "node.flow"      : "1.2.3",
