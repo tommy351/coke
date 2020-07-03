@@ -13,7 +13,7 @@
     "express-session"    : "1.8.2",
     "express-thunder"    : "1.1.6",
     "method-override"    : "2.2.0",
-    "moment"             : "2.8.3",
+    "moment"             : "2.27.0",
     "mongoose"           : "3.8.16",
     "node.class"         : "1.1.4",
     "serve-favicon"      : "2.1.4",
