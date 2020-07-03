@@ -25,7 +25,7 @@
     "inflection"     : "1.4.2",
     "js-yaml"        : "3.2.2",
     "node.class"     : "1.1.4",
-    "node.extend"    : "1.1.2",
+    "node.extend"    : "2.0.2",
     "node.flow"      : "1.2.3",
     "node.packer"    : "2.0.3",
     "railway-routes" : "0.0.10",
