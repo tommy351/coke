@@ -17,7 +17,7 @@
     "mongoose"           : "3.8.16",
     "node.class"         : "1.1.4",
     "serve-favicon"      : "2.1.4",
-    "serve-static"       : "1.6.2",
+    "serve-static"       : "1.14.1",
     "sitemap"            : "0.7.4"
   },
   "main"   : "server",
